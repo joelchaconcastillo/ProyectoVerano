@@ -1,0 +1,12 @@
+*.o
+./input_data/
+*.swp
+*.sh
+*.out
+*.in
+todo
+nsga2r
+*~
+cscope*
+tags
+*.c#
